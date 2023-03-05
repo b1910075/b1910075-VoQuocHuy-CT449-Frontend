@@ -138,7 +138,7 @@ export default {
         },
 
         goToAddContact() {
-            this.$router.push({ name: "contact.add" });
+            this.$router.push({ name: "contact.add" }); 
         },
     },
 
